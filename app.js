@@ -44,6 +44,6 @@ app.get('/userProfile', (req, res) => {
 });
 
 // Jalankan server
-app.listen(3000, () => {
-  console.log('Server berjalan di http://localhost:3000');
+app.listen(3124, () => {
+  console.log('Server berjalan di http://localhost:3124');
 });
